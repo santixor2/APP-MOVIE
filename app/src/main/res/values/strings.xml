@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">movieList</string>
+    <string name="titulo">titulo</string>
+    <string name="titulo2">TITULO</string>
+    <string name="idioma">IDIOMA</string>
+    <string name="popularidad">POPULARIDAD</string>
+    <string name="overview">OVERVIEW</string>
 </resources>
